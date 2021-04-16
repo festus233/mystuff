@@ -1,6 +1,4 @@
 
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid @ file:///tmp/build/80754af9/astroid_1592495912941/work
 astropy==4.0.2
 async-generator==1.10
 atomicwrites==1.4.0
