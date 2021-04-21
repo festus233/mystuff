@@ -76,7 +76,6 @@ PyYAML==5.3.1
 pyzmq==19.0.2
 QDarkStyle==2.8.1
 QtPy==1.9.0
-SecretStorage==3.1.2
 sip==4.19.13
 snowballstemmer==2.0.0
 sortedcollections==1.2.1
