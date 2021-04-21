@@ -69,7 +69,6 @@ pycodestyle==2.6.0
 pycosat==0.6.3
 pycurl==7.43.0.6
 pyflakes==2.2.0
-pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 PySocks==1.7.1
 pytest==0.0.0
