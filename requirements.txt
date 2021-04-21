@@ -24,7 +24,6 @@ fastcache==1.1.0
 filelock==3.0.12
 Flask==1.1.2
 glob2==0.7
-h5py==2.10.0
 HeapDict==1.0.1
 imagesize==1.2.0
 ipython-genutils==0.2.0
@@ -37,7 +36,6 @@ jupyter-core==4.6.3
 jupyterlab==2.2.6
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
-llvmlite==0.34.0
 locket==0.2.0
 MarkupSafe==1.1.1
 mccabe==0.6.1
